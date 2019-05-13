@@ -40,6 +40,7 @@ img {
     flex-direction: column;
     background: url('https://media.discordapp.net/attachments/362796461974487041/364635151117844499/ghost1.gif') fixed no-repeat;
     background-size: cover;
+    padding-top: 4vh;
 }
 
 .Question {
@@ -113,6 +114,7 @@ img {
     font-weight: bold;
     letter-spacing: -1px;
     text-align: center;
+    background-color: rgba(245, 245, 220, 0.433);
     
 
 /* color: #fff;
