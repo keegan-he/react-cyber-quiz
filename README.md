@@ -8,3 +8,5 @@ Test your knowledge of various cyberpunk movies from the 80s and 90s.
 * break into components
 * fix styling
 * convert to MERN
+
+![demo](quizdemo.gif)
